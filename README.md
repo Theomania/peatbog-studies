@@ -1,1 +1,1 @@
-# peat bog studies
+# peatbog-studies
